@@ -43,3 +43,7 @@ To play the game, simply clone the repository and open the `index.html` file in 
 Contributions to enhance the game, fix bugs, or suggest new features are always welcome. Please feel free to fork the repository and submit pull requests.
 
 **Embark on your adventure and become the hero who repels the dragon!**
+
+
+Visit the original author of the project here:
+https://github.com/Kunal301/RPG-Dragon-Repeller
