@@ -1,7 +1,6 @@
-# Dragon-Repeller-Rebirth
+# Dragon Repeller Rebirth
 This is a new, updated version of the original. There are a lot of clones out there, look no further than this one.
 
-# dragon-repeller-Rebirth-rpg
 
 **Dragon Repeller Rebirth** is a complete overhaul of the original game, utilizing just HTML, CSS and JavaScript. Just like the original, Dragon Repeller: Rebirth is set in a mythical realm, where players must embark on a long and difficult quest to defeat a fearsome dragon, navigating different locations such as the town, complete with its own inn which you will frequent, a mysterious cave, an ominous forest and a dangerous dungeon. Along the journey, the player will encounter various monsters, new weapons and armor and collect gold.
 
