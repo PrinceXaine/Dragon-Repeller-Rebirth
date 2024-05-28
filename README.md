@@ -1,3 +1,6 @@
+# Play the Game Here:
+https://itch.io/embed-upload/10527186?color=333333
+
 # Dragon Repeller Rebirth
 This is a new, updated version of the original. There are a lot of clones out there, look no further than this one.
 
