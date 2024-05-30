@@ -1,7 +1,7 @@
 # Play the Game Here:
 https://itch.io/embed-upload/10527186?color=333333
 
-![image](https://github.com/PrinceXaine/Dragon-Repeller-Rebirth/assets/96804005/7e256790-31d8-47e9-a024-86e8dc4ace3c)
+![image](https://github.com/PrinceXaine/Dragon-Repeller-Rebirth/assets/96804005/26ff1fab-39aa-4369-8307-fe771d4cac9e)
 
 
 # Dragon Repeller Rebirth
@@ -16,6 +16,8 @@ This is a new, updated version of the original. There are a lot of clones out th
 - **New Weapons:** The following weapons are available: Stick, Dagger, Claw Hammer, Staff, Sword, Spear, Greatsword, Dragon Slayer.
 
 - **New Armor:** The following armors are available: Worn Shirt, Leather Garb, Iron Plate, Steel Armor, Diamond Mail, Obsidian Plate, Adamantium Suit, Dragon Repeller.
+
+- **New Spell System:** The following spells are available: Magic Bolt, Healing, Teleport, Magic Bolt II, Healing II. Spells can be used to deal damage, heal and run from enemies. 
 
 - **New Locations:** The following locations are available: Town, Inn, Cave, Forest, Dungeon
 
@@ -51,3 +53,7 @@ Contributions to enhance the game, fix bugs, or suggest new features are always 
 
 Visit the original author of the project here:
 https://github.com/Kunal301/RPG-Dragon-Repeller
+
+
+Future Updates:
+  * Images: Icons, monsters, locations, etc.
