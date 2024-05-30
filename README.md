@@ -16,8 +16,8 @@ This is a new, updated version of the original. There are a lot of clones out th
 **Dragon Repeller Rebirth** is a complete overhaul of the original game, utilizing just HTML, CSS and JavaScript. Just like the original, Dragon Repeller: Rebirth is set in a mythical realm, where players must embark on a long and difficult quest to defeat a fearsome dragon, navigating different locations such as the town, complete with its own inn which you will frequent, a mysterious cave, an ominous forest and a dangerous dungeon. Along the journey, the player will encounter various monsters, new weapons and armor and collect gold.
 
 ## Features New to Rebirth:
-  - **New Spell System:**
-    - Added mana and max mana values to character skillset.
+- **New Spell System:**
+	- Added mana and max mana values to character skillset.
   	- Added Spells, Magic Bolt, Healing, Teleport, Magic Bolt II, Healing II.
   	- Spells are learned by an RNG chance after a battle.
   	- Player can see their available spells in the stats UI.
@@ -28,27 +28,27 @@ This is a new, updated version of the original. There are a lot of clones out th
   	- Attacking monsters and resting restore mana.
 
   - **New Armor System:**
-    - Added current armor display in character stats.
-	- Available armors include Weathered Tunic, Leather Garb, Iron Plate, Steel Armor, Diamond Mail, Obsidian Plate, 		Adamantium Suit, Dragon Repeller.
+  	- Added current armor display in character stats.
+	- Available armors include Weathered Tunic, Leather Garb, Iron Plate, Steel Armor, Diamond Mail, Obsidian Plate, Adamantium Suit, Dragon Repeller.
 	- Armors can only be bought from the shop, but cannot break.
 	- If player's armor is greater than monster damage, the player has a chance of negating all damage.
 	- Player can see their equipped armor in the stats UI.
 
   - **Finding Treasure:**
-    	- "Easter Egg" has been replaced with finding treasure. In the version I played, the Easter Egg was broken, allowing players 	a 100% chance of getting the easter egg, and nearly a 100% success rate of completing the Easter Egg successfully, allowing 	players to farm gold and then farm HP.
+    	- "Easter Egg" has been replaced with finding treasure. In the version I played, the Easter Egg was broken, allowing players a 100% chance of getting the easter egg, and 		nearly a 100% success rate of completing the Easter Egg successfully, allowing 	players to farm gold and then farm HP.
 	- A treasure chest will rarely appear after slaying a monster.
 	- The gold received from the chest will be equivalent reward for your current XP/monster slain.
 	- Rarely, you may get a new weapon from the chest instead.
 
   - **Continue and Restart Options:**
-    	- In the original game, "Permadeath" was the only choice on death. As this game is much more difficult and involved than the 	original, I opted to change this.
+    	- In the original game, "Permadeath" was the only choice on death. As this game is much more difficult and involved than the original, I opted to change this.
 	- When you die, you have the choice to continue where you left off with a gold penalty.
 	- Added a counter for the number of deaths.
 	- When you slay the dragon, you can choose to continue playing instead of restarting.
 
 ## Overhauled Existing Features:
   - **Monsters:**
-    	- Available monsters to fight include Slime, Wolf, Salamander, Goblin, Bandit, Basilisk, Banshee, Harpy, Ogre, Troll, 		Chimera, Drake, Dragon.
+    	- Available monsters to fight include Slime, Wolf, Salamander, Goblin, Bandit, Basilisk, Banshee, Harpy, Ogre, Troll, Chimera, Drake, Dragon.
 	- Monster HP is dynamic and will increase a bit to match your XP.
 
   - **Weapons:**
@@ -62,7 +62,7 @@ This is a new, updated version of the original. There are a lot of clones out th
 	- Player was given a "Mana/Max Mana" to go along with the Spell System.
 	- Player can now see their equipped Weapon, Armor and Available Spells.
 	- Player can see lifetime stats for various actions.
-	- Number of buttons increased from 3 to 5, allowing for more expanded options (such as more monsters, additional 		weapons/armors, etc).
+	- Number of buttons increased from 3 to 5, allowing for more expanded options (such as more monsters, additional weapons/armors, etc).
 
 **Location Updates:**
 	- Available locations include "Town", "Inn", "Cave", "Forest", "Dungeon", "Dragon"
