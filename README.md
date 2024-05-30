@@ -41,14 +41,14 @@ This is a new, updated version of the original. There are a lot of clones out th
 	- Rarely, you may get a new weapon from the chest instead.
 
 - **Continue and Restart Options:**
-    	- In the original game, "Permadeath" was the only choice on death. As this game is much more difficult and involved than the original, I opted to change this.
+	- In the original game, "Permadeath" was the only choice on death. As this game is much more difficult and involved than the original, I opted to change this.
 	- When you die, you have the choice to continue where you left off with a gold penalty.
 	- Added a counter for the number of deaths.
 	- When you slay the dragon, you can choose to continue playing instead of restarting.
 
 ## Overhauled Existing Features:
 - **Monsters:**
-    	- Available monsters to fight include Slime, Wolf, Salamander, Goblin, Bandit, Basilisk, Banshee, Harpy, Ogre, Troll, Chimera, Drake, Dragon.
+ 	- Available monsters to fight include Slime, Wolf, Salamander, Goblin, Bandit, Basilisk, Banshee, Harpy, Ogre, Troll, Chimera, Drake, Dragon.
 	- Monster HP is dynamic and will increase a bit to match your XP.
 
 - **Weapons:**
