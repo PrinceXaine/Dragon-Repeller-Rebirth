@@ -35,7 +35,7 @@ This is a new, updated version of the original. There are a lot of clones out th
 	- Player can see their equipped armor in the stats UI.
 
 - **Finding Treasure:**
-    	- "Easter Egg" has been replaced with finding treasure. In the version I played, the Easter Egg was broken, allowing players a 100% chance of getting the easter egg, and 		nearly a 100% success rate of completing the Easter Egg successfully, allowing 	players to farm gold and then farm HP.
+	- "Easter Egg" has been replaced with finding treasure. In the version I played, the Easter Egg was broken, allowing players a 100% chance of getting the easter egg, and 		nearly a 100% success rate of completing the Easter Egg successfully, allowing 	players to farm gold and then farm HP.
 	- A treasure chest will rarely appear after slaying a monster.
 	- The gold received from the chest will be equivalent reward for your current XP/monster slain.
 	- Rarely, you may get a new weapon from the chest instead.
