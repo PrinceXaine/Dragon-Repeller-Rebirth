@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./styles.css">
+    <title>RPG - Dragon Repeller: Rebirth</title>
+</head>
+
+<body>
+    <div id="game">
+        <div id="stats">
+            <span class="stat">XP: <strong><span id="xpText">0</span></strong></span>
+            <span class="stat">Health: <strong><span id="healthText">100<span id="">/</span><span id="maxhealthText">100</span></strong></span>
+            <span class="stat">Mana: <strong><span id="manaText">10<span id="">/</span><span id="maxmanaText">10</span></strong></span>
+            <span class="stat">Gold: <strong><span id="goldText">50</span></strong></span>
+            <br>
+            <span class="stat">Current Weapon: <strong><span id="weaponText">Stick</span></strong></span>
+            <span class="stat">Current Armor: <strong><span id="armorText">Weathered Tunic</span></strong></span>
+            <br>
+            <span class="stat">Spells Learned: <strong><span id="spellText"></span></strong></span>
+            <br>
+            <br>
+            Lifetime Stats:
+            <br>
+            <span class="stat">Monsters Slain: <strong><span id="monsterText">0</span></strong></span>
+            <span class="stat">Gold Spent: <strong><span id="goldSpentText">0</span></strong></span>
+            <span class="stat">Weapons Broken: <strong><span id="weaponsBrokeText">0</span></strong></span>
+            <br>
+            <span class="stat">Treasure Found: <strong><span id="treasureText">0</span></strong></span>
+            <span class="stat">Times Fled: <strong><span id="fledText">0</span></strong></span>
+            <span class="stat">Deaths: <strong><span id="deathText">0</span></strong></span>
+        </div>
+        <div id="controls">
+            <button id="button1">Go to Inn</button>
+            <button id="button2">Go to Cave</button>
+            <button id="button3">Go to Forest</button>
+            <button id="button4">Go to Dungeon</button>
+            <button id="button5">Fight Dragon</button>
+        </div>
+        <div id="monsterStats">
+            <span class="stat">Monster Name: <strong><span id="monsterName"></span></strong></span>
+            <span class="stat">Health: <strong><span id="monsterHealth"></span></strong></span>
+        </div>
+        <div id="text">
+            Story:
+            <br>
+            You are a lone knight in a village terrorized by a dragon. The dragon occasionally burns down homes, eats the livestock of the villagers and kills the innocent. You must train your body and mind, and slay the dragon!
+            <br>
+            <br>
+            How to Play:
+            <br>
+            Navigate to a location to train against monsters, rest at the inn or buy weapons and armor with your hard earned gold. Fight the dragon when you feel you are ready.
+            <br>
+            <br>
+            How to Battle:
+            <br>
+            Use the "Attack" button to use your weapon against the monster. Use the "Magic" button to use spells. Use the "Dodge" button to attempt to avoid an attack and heal some HP. Use the flee button to attempt to escape the monster.
+            <br>
+            <br>
+            Stats Explanation:
+            <br>
+            XP: The higher your XP value, the more damage you deal and less damage you take. Also increases your Max HP.
+            <br>
+            <br>
+            Health: When health hits 0, you can choose to continue or start from the beginning (permadeath).
+            <br>
+            <br>
+            Gold: Allows you to rest at the inn and purchase weapons and armor.
+            <br>
+            <br>
+            Magic: Sometimes, when a monster is slain, you absorb some of their essence, fueling your own magic and mana! Using magic will increase your maximum mana.
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
