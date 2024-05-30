@@ -90,7 +90,7 @@ This is a new, updated version of the original. There are a lot of clones out th
 	- Successful dodge chance has been reduced from 100% to a chance of dodging.
 	- A successful dodge restores some HP.
 
-**Text Modifications:**
+- **Text Modifications:**
 	- Self-Explanatory, but many capitalization errors and punctuation/grammar issues have been resolved.
 	- Modified game screen text to give player some direction at the beginning of the game.
 	- Revised the story from "slay the dragon" to something a bit more in depth.
