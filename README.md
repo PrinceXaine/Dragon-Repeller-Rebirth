@@ -103,7 +103,7 @@ This is a new, updated version of the original. There are a lot of clones out th
 - **JavaScript:** Powers the game's logic and interactivity.
 
 ## Getting Started
-To play the game, simply clone the repository and open the `Dragon Repeller - Rebirth.html` file in a web browser. No additional installations or setups are required.
+- To play the game, press the itch.io link above or simply clone the repository and open the `Dragon Repeller - Rebirth.html` file in a web browser.
 
 ## Contributing
 Contributions to enhance the game, fix bugs, or suggest new features are always welcome. Please feel free to fork the repository and submit pull requests.
