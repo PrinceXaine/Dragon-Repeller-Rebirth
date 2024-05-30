@@ -4,6 +4,11 @@
 ![image](https://github.com/PrinceXaine/Dragon-Repeller-Rebirth/assets/96804005/26ff1fab-39aa-4369-8307-fe771d4cac9e)
 
 
+The version I updated from:
+![image](https://github.com/PrinceXaine/Dragon-Repeller-Rebirth/assets/96804005/39d7f7c9-5ee7-4529-9bf3-b1f4f1ca64a1)
+https://github.com/samuelcardenasg23/role-playing-game
+
+
 # Dragon Repeller Rebirth
 This is a new, updated version of the original. There are a lot of clones out there, look no further than this one.
 
