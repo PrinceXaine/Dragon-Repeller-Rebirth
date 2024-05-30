@@ -58,7 +58,7 @@ This is a new, updated version of the original. There are a lot of clones out th
 	- Player can see their equipped weapon in the stats UI.
 
 - **UI Updates:**
-    	- Player was given a "Max HP" stat to prevent the player from farming HP.
+	- Player was given a "Max HP" stat to prevent the player from farming HP.
 	- Player was given a "Mana/Max Mana" to go along with the Spell System.
 	- Player can now see their equipped Weapon, Armor and Available Spells.
 	- Player can see lifetime stats for various actions.
@@ -69,29 +69,29 @@ This is a new, updated version of the original. There are a lot of clones out th
 	- All monster encounters increase in difficulty from left to right.
 
 - **Store Updates:**
-	- Store was renamed to "inn".
+  	- Store was renamed to "inn".
 	- Player can rest to full HP and mana for a mere 40 gold.
 	- Player can buy Weapons and Armor for a price equivalent to the damage/armor of the equipment.
 	- Player can buy health potions which restore 10% HP for 10 gold.
 	- Removed the "Sell" option from weapons. It was unnecessary and introduced a bug which prevented weapons from breaking.
 	
 - **Weapon Break System:**
-	- Overhauled from a static % chance of happening to a % chance that decreases based on the enemy you are fighting and your current XP.
+  	- Overhauled from a static % chance of happening to a % chance that decreases based on the enemy you are fighting and your current XP.
 	- The player is now notified if a weapon is broken in both the UI and in a message window (with red text).
 	
 - **XP and Gold Earned:**
-	- XP and Gold earned are now dynamically earned based on the enemy you are fighting and your current XP.
+  	- XP and Gold earned are now dynamically earned based on the enemy you are fighting and your current XP.
 	- Naturally the stronger you are, the less XP and Gold you get from slaying a weaker enemy.
 
 - **Damage/Block/Flee/Dodge Systems:**
-	- Damage calculations have been vastly overhauled for both monsters and the player.
+  	- Damage calculations have been vastly overhauled for both monsters and the player.
 	- Player has a *chance* of blocking an attack from a monster if the player's armor is greater than the attack.
 	- Successful flee chance has been reduced from 100% to a chance of fleeing. 
 	- Successful dodge chance has been reduced from 100% to a chance of dodging.
 	- A successful dodge restores some HP.
 
 - **Text Modifications:**
-	- Self-Explanatory, but many capitalization errors and punctuation/grammar issues have been resolved.
+  	- Self-Explanatory, but many capitalization errors and punctuation/grammar issues have been resolved.
 	- Modified game screen text to give player some direction at the beginning of the game.
 	- Revised the story from "slay the dragon" to something a bit more in depth.
 	- Revised some text throughout the game to make it less weird and/or generic.
