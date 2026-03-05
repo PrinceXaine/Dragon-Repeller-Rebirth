@@ -1,7 +1,8 @@
 # Play the Game Here:
 [https://itch.io/embed-upload/10527186?color=333333](https://itch.io/embed-upload/10545641?color=333333)
 
-![image](https://github.com/PrinceXaine/Dragon-Repeller-Rebirth/assets/96804005/26ff1fab-39aa-4369-8307-fe771d4cac9e)
+<img width="786" height="637" alt="image" src="https://github.com/user-attachments/assets/f883a61a-a340-48d7-90ca-6f1dd8ab6ab0" />
+
 
 
 The version I updated from:
